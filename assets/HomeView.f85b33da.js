@@ -1,0 +1,1 @@
+import{u as a,o as _,c as t,t as o,a as c,b as i}from"./index.7cdeb596.js";const r={class:"newTime"},u={__name:"index",setup(n){const e=a();return e.upDatedTime(),(s,m)=>(_(),t("p",r,o(c(e).time),1))}};const l={__name:"HomeView",setup(n){return(e,s)=>(_(),t("main",null,[i(u)]))}};export{l as default};
